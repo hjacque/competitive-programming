@@ -58,6 +58,7 @@ https://leetcode.com
 | [848](./LeetCode/848/) | Shifting Letters | Medium | Array, String, Prefix Sum |
 | [1387](./LeetCode/1387/) | Sort Integers by The Power Value | Medium | Dynamic Programming, Memoization, Sorting |
 | [1432](./LeetCode/1432/) | Max Difference You Can Get From Changing an Integer | Medium | Math, Greedy |
+| [1652](./LeetCode/1652/) | Defuse the Bomb | Easy | Array, Sliding Window |
 | [1980](./LeetCode//1980/) | Find Unique Binary String | Medium | Array, Hash Table, String, Backtracking |
 | [2016](./LeetCode/2016/) | Maximum Difference Between Increasing Elements | Easy | Array |
 | [2120](./LeetCode/2120/) | Execution of All Suffix Instructions Staying in a Grid | Medium | String, Simulation |
