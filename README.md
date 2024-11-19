@@ -73,6 +73,7 @@ https://leetcode.com
 | [2904](./LeetCode/2904/) | Shortest and Lexicographically Smallest Beautiful String | Medium | String, Sliding Window |
 | [2966](./LeetCode/2966/) | Divide Array Into Arrays With Max Difference | Medium | Array, Greedy, Sorting |
 | [2998](./LeetCode/2998/) | Minimum Number of Operations to Make X and Y Equal | Medium | Dynamic Programming, Breadth-First Search, Memoization |
+| [3258](./LeetCode/3258/) | Count Substrings That Satisfy K-Constraint I | Easy | String, Sliding Window |
 | [3354](./LeetCode/3354/) | Make Array Elements Equal to Zero | Easy | Array, Simulation, Prefix Sum |
 | [3365](./LeetCode/3365/) | Rearrange K Substrings to Form Target String | Medium | Hash Table, String, Sorting |
 | [3423](./LeetCode/3423/) | Maximum Difference Between Adjacent Elements in a Circular Array | Easy | Array |
