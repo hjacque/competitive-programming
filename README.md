@@ -47,6 +47,7 @@ https://leetcode.com
 
 | | Title | Difficulty | Topics |
 |---------|-------|------------|--------|
+| [88](./LeetCode/88/) | Merge Sorted Array | Easy | Array, Two Pointers, Sorting |
 | [107](./LeetCode/107/) | Binary Tree Level Order Traversal II | Medium | Tree, Breadth-First Search, Binary Tree |
 | [122](./LeetCode/122/) | Best Time to Buy and Sell Stock II | Medium | Array, Dynamic Programming, Greedy |
 | [123](./LeetCode/123/) | Best Time to Buy and Sell Stock III | Hard | Array, Dynamic Programming |
