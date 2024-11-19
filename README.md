@@ -63,6 +63,7 @@ https://leetcode.com
 | [2016](./LeetCode/2016/) | Maximum Difference Between Increasing Elements | Easy | Array |
 | [2120](./LeetCode/2120/) | Execution of All Suffix Instructions Staying in a Grid | Medium | String, Simulation |
 | [2300](./LeetCode/2300/) | Successful Pairs of Spells and Potions | Medium | Array, Two Pointers, Binary Search, Sorting |
+| [2461](./LeetCode/2461/) | Maximum Sum of Distinct Subarrays With Length K | Medium | Array, Hash Table, Sliding Window |
 | [2566](./LeetCode/2566/) | Maximum Difference by Remapping a Digit | Easy | Math, Greedy |
 | [2568](./LeetCode/2568/) | Minimum Impossible OR | Medium | Array, Bit Manipulation, Brainteaser |
 | [2616](./LeetCode/2616/) | Minimize the Maximum Difference of Pairs | Medium | Array, Binary Search, Greedy |
