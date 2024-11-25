@@ -54,6 +54,7 @@ https://leetcode.com
 | [123](./LeetCode/123/) | Best Time to Buy and Sell Stock III | Hard | Array, Dynamic Programming |
 | [188](./LeetCode/188/) | Best Time to Buy and Sell Stock IV | Hard | Array, Dynamic Programming |
 | [215](./LeetCode/215/) | Kth Largest Element in an Array | Medium | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect |
+| [217](./LeetCode/217/) | Contains Duplicate | Easy | Array, Hash Table, Sorting |
 | [278](./LeetCode/278/) | First Bad Version | Easy | Binary Search, Interactive |
 | [386](./LeetCode/386/) | Lexicographical Numbers | Medium | Depth-First Search, Trie |
 | [791](./LeetCode/791/) | Custom Sort String | Medium | Hash Table, String, Sorting |
