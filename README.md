@@ -62,6 +62,7 @@ https://leetcode.com
 | [217](./LeetCode/217/) | Contains Duplicate | Easy | Array, Hash Table, Sorting |
 | [242](./LeetCode/242/) | Valid Anagram | Easy | Hash Table, String, Sorting |
 | [278](./LeetCode/278/) | First Bad Version | Easy | Binary Search, Interactive |
+| [347](./LeetCode/347/) | Top K Frequent Elements | Medium | Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect |
 | [386](./LeetCode/386/) | Lexicographical Numbers | Medium | Depth-First Search, Trie |
 | [424](./LeetCode/424/) | Longest Repeating Character Replacement | Medium | Hash Table, String, Sliding Window |
 | [791](./LeetCode/791/) | Custom Sort String | Medium | Hash Table, String, Sorting |
