@@ -63,6 +63,7 @@ https://leetcode.com
 | [242](./LeetCode/242/) | Valid Anagram | Easy | Hash Table, String, Sorting |
 | [278](./LeetCode/278/) | First Bad Version | Easy | Binary Search, Interactive |
 | [386](./LeetCode/386/) | Lexicographical Numbers | Medium | Depth-First Search, Trie |
+| [424](./LeetCode/424/) | Longest Repeating Character Replacement | Medium | Hash Table, String, Sliding Window |
 | [791](./LeetCode/791/) | Custom Sort String | Medium | Hash Table, String, Sorting |
 | [848](./LeetCode/848/) | Shifting Letters | Medium | Array, String, Prefix Sum |
 | [1387](./LeetCode/1387/) | Sort Integers by The Power Value | Medium | Dynamic Programming, Memoization, Sorting |
