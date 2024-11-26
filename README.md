@@ -50,6 +50,7 @@ https://leetcode.com
 | [1](./LeetCode/1/) | Two Sum | Easy | Array, Hash Table |
 | [3](./LeetCode/3/) | Longest Substring Without Repeating Characters | Medium | Hash Table, String, Sliding Window |
 | [27](./LeetCode/27/) | Remove Element | Easy | Array, Two Pointers |
+| [36](./LeetCode/36/) | Valid Sudoku | Medium | Array, Hash Table, Matrix |
 | [49](./LeetCode/49/) | Group Anagrams | Medium | Array, Hash Table, String, Sorting |
 | [88](./LeetCode/88/) | Merge Sorted Array | Easy | Array, Two Pointers, Sorting |
 | [107](./LeetCode/107/) | Binary Tree Level Order Traversal II | Medium | Tree, Breadth-First Search, Binary Tree |
