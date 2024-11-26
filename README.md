@@ -52,6 +52,7 @@ https://leetcode.com
 | [49](./LeetCode/49/) | Group Anagrams | Medium | Array, Hash Table, String, Sorting |
 | [88](./LeetCode/88/) | Merge Sorted Array | Easy | Array, Two Pointers, Sorting |
 | [107](./LeetCode/107/) | Binary Tree Level Order Traversal II | Medium | Tree, Breadth-First Search, Binary Tree |
+| [121](./LeetCode/121/) | Best Time to Buy and Sell Stock | Easy | Array, Dynamic Programming |
 | [122](./LeetCode/122/) | Best Time to Buy and Sell Stock II | Medium | Array, Dynamic Programming, Greedy |
 | [123](./LeetCode/123/) | Best Time to Buy and Sell Stock III | Hard | Array, Dynamic Programming |
 | [125](./LeetCode/125/) | Valid Palindrome | Easy | Two Pointers, String |
