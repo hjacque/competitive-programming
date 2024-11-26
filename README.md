@@ -47,6 +47,7 @@ https://leetcode.com
 
 | | Title | Difficulty | Topics |
 |---------|-------|------------|--------|
+| [1](./LeetCode/1/) | Two Sum | Easy | Array, Hash Table |
 | [27](./LeetCode/27/) | Remove Element | Easy | Array, Two Pointers |
 | [88](./LeetCode/88/) | Merge Sorted Array | Easy | Array, Two Pointers, Sorting |
 | [107](./LeetCode/107/) | Binary Tree Level Order Traversal II | Medium | Tree, Breadth-First Search, Binary Tree |
