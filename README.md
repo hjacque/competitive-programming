@@ -63,6 +63,7 @@ https://leetcode.com
 | [188](./LeetCode/188/) | Best Time to Buy and Sell Stock IV | Hard | Array, Dynamic Programming |
 | [215](./LeetCode/215/) | Kth Largest Element in an Array | Medium | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect |
 | [217](./LeetCode/217/) | Contains Duplicate | Easy | Array, Hash Table, Sorting |
+| [226](./LeetCode/226/) | Invert Binary Tree | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
 | [242](./LeetCode/242/) | Valid Anagram | Easy | Hash Table, String, Sorting |
 | [278](./LeetCode/278/) | First Bad Version | Easy | Binary Search, Interactive |
 | [347](./LeetCode/347/) | Top K Frequent Elements | Medium | Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect |
