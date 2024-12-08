@@ -74,6 +74,7 @@ https://leetcode.com
 | [791](./LeetCode/791/) | Custom Sort String | Medium | Hash Table, String, Sorting |
 | [848](./LeetCode/848/) | Shifting Letters | Medium | Array, String, Prefix Sum |
 | [1387](./LeetCode/1387/) | Sort Integers by The Power Value | Medium | Dynamic Programming, Memoization, Sorting |
+| [1431](./LeetCode/1431/) | Kids With the Greatest Number of Candies | Easy | Array |
 | [1432](./LeetCode/1432/) | Max Difference You Can Get From Changing an Integer | Medium | Math, Greedy |
 | [1652](./LeetCode/1652/) | Defuse the Bomb | Easy | Array, Sliding Window |
 | [1763](./LeetCode/1763/) | Longest Nice Substring | Easy | Hash Table, String, Divide and Conquer, Bit Manipulation, Sliding Window |
