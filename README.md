@@ -75,6 +75,7 @@ https://leetcode.com
 | [791](./LeetCode/791/) | Custom Sort String | Medium | Hash Table, String, Sorting |
 | [848](./LeetCode/848/) | Shifting Letters | Medium | Array, String, Prefix Sum |
 | [933](./LeetCode/933/) | Number of Recent Calls | Easy | Design, Queue, Data Stream |
+| [1071](./LeetCode/1071/) | Greatest Common Divisor of Strings | Easy | Math, String, Euclidean Algorithm, Greatest Common Divisor |
 | [1387](./LeetCode/1387/) | Sort Integers by The Power Value | Medium | Dynamic Programming, Memoization, Sorting |
 | [1431](./LeetCode/1431/) | Kids With the Greatest Number of Candies | Easy | Array |
 | [1432](./LeetCode/1432/) | Max Difference You Can Get From Changing an Integer | Medium | Math, Greedy |
