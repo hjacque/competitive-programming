@@ -70,6 +70,7 @@ https://leetcode.com
 | [345](./LeetCode/345/) | Reverse Vowels of a String | Easy | Two Pointers, String |
 | [347](./LeetCode/347/) | Top K Frequent Elements | Medium | Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect |
 | [386](./LeetCode/386/) | Lexicographical Numbers | Medium | Depth-First Search, Trie |
+| [392](./LeetCode/392/) | Is Subsequence | Easy | Two Pointers, String, Dynamic Programming |
 | [424](./LeetCode/424/) | Longest Repeating Character Replacement | Medium | Hash Table, String, Sliding Window |
 | [443](./LeetCode/443/) | String Compression | Medium | Two Pointers, String |
 | [791](./LeetCode/791/) | Custom Sort String | Medium | Hash Table, String, Sorting |
