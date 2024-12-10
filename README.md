@@ -74,6 +74,7 @@ https://leetcode.com
 | [392](./LeetCode/392/) | Is Subsequence | Easy | Two Pointers, String, Dynamic Programming |
 | [424](./LeetCode/424/) | Longest Repeating Character Replacement | Medium | Hash Table, String, Sliding Window |
 | [443](./LeetCode/443/) | String Compression | Medium | Two Pointers, String |
+| [724](./LeetCode/724/) | Find Pivot Index | Easy | Array, Prefix Sum |
 | [791](./LeetCode/791/) | Custom Sort String | Medium | Hash Table, String, Sorting |
 | [848](./LeetCode/848/) | Shifting Letters | Medium | Array, String, Prefix Sum |
 | [933](./LeetCode/933/) | Number of Recent Calls | Easy | Design, Queue, Data Stream |
