@@ -75,6 +75,7 @@ https://leetcode.com
 | [424](./LeetCode/424/) | Longest Repeating Character Replacement | Medium | Hash Table, String, Sliding Window |
 | [443](./LeetCode/443/) | String Compression | Medium | Two Pointers, String |
 | [605](./LeetCode/605/) | Can Place Flowers | Easy | Array, Greedy |
+| [643](./LeetCode/643/) | Maximum Average Subarray I | Easy | Array, Sliding Window |
 | [724](./LeetCode/724/) | Find Pivot Index | Easy | Array, Prefix Sum |
 | [791](./LeetCode/791/) | Custom Sort String | Medium | Hash Table, String, Sorting |
 | [848](./LeetCode/848/) | Shifting Letters | Medium | Array, String, Prefix Sum |
