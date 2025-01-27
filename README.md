@@ -77,6 +77,7 @@ https://leetcode.com
 | [605](./LeetCode/605/) | Can Place Flowers | Easy | Array, Greedy |
 | [643](./LeetCode/643/) | Maximum Average Subarray I | Easy | Array, Sliding Window |
 | [724](./LeetCode/724/) | Find Pivot Index | Easy | Array, Prefix Sum |
+| [784](./LeetCode/784/) | Letter Case Permutation | Medium | String, Backtracking, Bit Manipulation |
 | [791](./LeetCode/791/) | Custom Sort String | Medium | Hash Table, String, Sorting |
 | [848](./LeetCode/848/) | Shifting Letters | Medium | Array, String, Prefix Sum |
 | [933](./LeetCode/933/) | Number of Recent Calls | Easy | Design, Queue, Data Stream |
