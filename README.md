@@ -83,6 +83,7 @@ https://leetcode.com
 | [933](./LeetCode/933/) | Number of Recent Calls | Easy | Design, Queue, Data Stream |
 | [1071](./LeetCode/1071/) | Greatest Common Divisor of Strings | Easy | Math, String, Euclidean Algorithm, Greatest Common Divisor |
 | [1387](./LeetCode/1387/) | Sort Integers by The Power Value | Medium | Dynamic Programming, Memoization, Sorting |
+| [1394](./LeetCode/1394/) | Find Lucky Integer in an Array | Easy | Array, Hash Table, Counting |
 | [1431](./LeetCode/1431/) | Kids With the Greatest Number of Candies | Easy | Array |
 | [1432](./LeetCode/1432/) | Max Difference You Can Get From Changing an Integer | Medium | Math, Greedy |
 | [1652](./LeetCode/1652/) | Defuse the Bomb | Easy | Array, Sliding Window |
