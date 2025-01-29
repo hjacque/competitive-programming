@@ -96,6 +96,7 @@ https://leetcode.com
 | [1876](./LeetCode/1876/) | Substrings of Size Three with Distinct Characters | Easy | Hash Table, String, Sliding Window, Counting |
 | [1980](./LeetCode//1980/) | Find Unique Binary String | Medium | Array, Hash Table, String, Backtracking |
 | [2016](./LeetCode/2016/) | Maximum Difference Between Increasing Elements | Easy | Array |
+| [2108](./LeetCode/2108/) | Find First Palindromic String in the Array | Easy | Array, Two Pointers, String |
 | [2120](./LeetCode/2120/) | Execution of All Suffix Instructions Staying in a Grid | Medium | String, Simulation |
 | [2300](./LeetCode/2300/) | Successful Pairs of Spells and Potions | Medium | Array, Two Pointers, Binary Search, Sorting |
 | [2319](./LeetCode/2319/) | Check if Matrix Is X-Matrix | Easy | Array, Matrix |
