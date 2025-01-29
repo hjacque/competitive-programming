@@ -60,6 +60,7 @@ https://leetcode.com
 | [122](./LeetCode/122/) | Best Time to Buy and Sell Stock II | Medium | Array, Dynamic Programming, Greedy |
 | [123](./LeetCode/123/) | Best Time to Buy and Sell Stock III | Hard | Array, Dynamic Programming |
 | [125](./LeetCode/125/) | Valid Palindrome | Easy | Two Pointers, String |
+| [136](./LeetCode/136/) | Single Number | Easy | Array, Bit Manipulation |
 | [151](./LeetCode/151/) | Reverse Words in a String | Medium | Two Pointers, String |
 | [155](./LeetCode/155/) | Min Stack | Medium | Stack, Design |
 | [188](./LeetCode/188/) | Best Time to Buy and Sell Stock IV | Hard | Array, Dynamic Programming |
