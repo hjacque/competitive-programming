@@ -87,6 +87,7 @@ https://leetcode.com
 | [1394](./LeetCode/1394/) | Find Lucky Integer in an Array | Easy | Array, Hash Table, Counting |
 | [1431](./LeetCode/1431/) | Kids With the Greatest Number of Candies | Easy | Array |
 | [1432](./LeetCode/1432/) | Max Difference You Can Get From Changing an Integer | Medium | Math, Greedy |
+| [1523](./LeetCode/1523/) | Count Odd Numbers in an Interval Range | Easy | Math |
 | [1614](./LeetCode/1614/) | Maximum Nesting Depth of the Parentheses | Easy | String, Stack, Bracket Sequences |
 | [1652](./LeetCode/1652/) | Defuse the Bomb | Easy | Array, Sliding Window |
 | [1732](./LeetCode/1732/) | Find the Highest Altitude | Easy | Array, Prefix Sum |
