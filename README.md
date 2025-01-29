@@ -81,6 +81,7 @@ https://leetcode.com
 | [791](./LeetCode/791/) | Custom Sort String | Medium | Hash Table, String, Sorting |
 | [848](./LeetCode/848/) | Shifting Letters | Medium | Array, String, Prefix Sum |
 | [933](./LeetCode/933/) | Number of Recent Calls | Easy | Design, Queue, Data Stream |
+| [1046](./LeetCode/1046/) | Last Stone Weight | Easy | Array, Heap (Priority Queue) |
 | [1071](./LeetCode/1071/) | Greatest Common Divisor of Strings | Easy | Math, String, Euclidean Algorithm, Greatest Common Divisor |
 | [1387](./LeetCode/1387/) | Sort Integers by The Power Value | Medium | Dynamic Programming, Memoization, Sorting |
 | [1394](./LeetCode/1394/) | Find Lucky Integer in an Array | Easy | Array, Hash Table, Counting |
