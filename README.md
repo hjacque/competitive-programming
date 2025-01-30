@@ -70,6 +70,7 @@ https://leetcode.com
 | [242](./LeetCode/242/) | Valid Anagram | Easy | Hash Table, String, Sorting |
 | [258](./LeetCode/258/) | Add Digits | Easy | Math, Simulation, Number Theory |
 | [278](./LeetCode/278/) | First Bad Version | Easy | Binary Search, Interactive |
+| [283](./LeetCode/283/) | Move Zeroes | Easy | Array, Two Pointers |
 | [345](./LeetCode/345/) | Reverse Vowels of a String | Easy | Two Pointers, String |
 | [347](./LeetCode/347/) | Top K Frequent Elements | Medium | Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect |
 | [386](./LeetCode/386/) | Lexicographical Numbers | Medium | Depth-First Search, Trie |
