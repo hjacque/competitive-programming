@@ -85,6 +85,7 @@ https://leetcode.com
 | [933](./LeetCode/933/) | Number of Recent Calls | Easy | Design, Queue, Data Stream |
 | [1046](./LeetCode/1046/) | Last Stone Weight | Easy | Array, Heap (Priority Queue) |
 | [1071](./LeetCode/1071/) | Greatest Common Divisor of Strings | Easy | Math, String, Euclidean Algorithm, Greatest Common Divisor |
+| [1317](./LeetCode/1317/) | Convert Integer to the Sum of Two No-Zero Integers | Easy | Math |
 | [1387](./LeetCode/1387/) | Sort Integers by The Power Value | Medium | Dynamic Programming, Memoization, Sorting |
 | [1394](./LeetCode/1394/) | Find Lucky Integer in an Array | Easy | Array, Hash Table, Counting |
 | [1431](./LeetCode/1431/) | Kids With the Greatest Number of Candies | Easy | Array |
