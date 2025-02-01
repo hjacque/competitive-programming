@@ -67,6 +67,7 @@ https://leetcode.com
 | [215](./LeetCode/215/) | Kth Largest Element in an Array | Medium | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect |
 | [217](./LeetCode/217/) | Contains Duplicate | Easy | Array, Hash Table, Sorting |
 | [226](./LeetCode/226/) | Invert Binary Tree | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree |
+| [229](./LeetCode/229/) | Majority Element II | Medium | Array, Hash Table, Sorting, Counting, Boyer–Moore Majority Vote Algorithm |
 | [242](./LeetCode/242/) | Valid Anagram | Easy | Hash Table, String, Sorting |
 | [258](./LeetCode/258/) | Add Digits | Easy | Math, Simulation, Number Theory |
 | [278](./LeetCode/278/) | First Bad Version | Easy | Binary Search, Interactive |
