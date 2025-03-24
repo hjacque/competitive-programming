@@ -78,6 +78,7 @@ https://leetcode.com
 | [392](./LeetCode/392/) | Is Subsequence | Easy | Two Pointers, String, Dynamic Programming |
 | [424](./LeetCode/424/) | Longest Repeating Character Replacement | Medium | Hash Table, String, Sliding Window |
 | [443](./LeetCode/443/) | String Compression | Medium | Two Pointers, String |
+| [559](./LeetCode/559/) | Maximum Depth of N-ary Tree | Easy | Tree, Depth-First Search, Breadth-First Search |
 | [605](./LeetCode/605/) | Can Place Flowers | Easy | Array, Greedy |
 | [643](./LeetCode/643/) | Maximum Average Subarray I | Easy | Array, Sliding Window |
 | [724](./LeetCode/724/) | Find Pivot Index | Easy | Array, Prefix Sum |
