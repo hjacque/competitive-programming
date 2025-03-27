@@ -106,6 +106,7 @@ https://leetcode.com
 | [2108](./LeetCode/2108/) | Find First Palindromic String in the Array | Easy | Array, Two Pointers, String |
 | [2120](./LeetCode/2120/) | Execution of All Suffix Instructions Staying in a Grid | Medium | String, Simulation |
 | [2300](./LeetCode/2300/) | Successful Pairs of Spells and Potions | Medium | Array, Two Pointers, Binary Search, Sorting |
+| [2311](./LeetCode/2311/) | Longest Binary Subsequence Less Than or Equal to K | Medium | String, Dynamic Programming, Greedy, Memoization |
 | [2319](./LeetCode/2319/) | Check if Matrix Is X-Matrix | Easy | Array, Matrix |
 | [2461](./LeetCode/2461/) | Maximum Sum of Distinct Subarrays With Length K | Medium | Array, Hash Table, Sliding Window |
 | [2475](./LeetCode/2475/) | Number of Unequal Triplets in Array | Easy | Array, Hash Table, Sorting |
