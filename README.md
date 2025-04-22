@@ -104,6 +104,7 @@ https://leetcode.com
 | [2000](./LeetCode/2000/) | Reverse Prefix of Word | Easy | Two Pointers, String, Stack |
 | [2016](./LeetCode/2016/) | Maximum Difference Between Increasing Elements | Easy | Array |
 | [2108](./LeetCode/2108/) | Find First Palindromic String in the Array | Easy | Array, Two Pointers, String |
+| [2114](./LeetCode/2114/) | Maximum Number of Words Found in Sentences | Easy | Array, String |
 | [2120](./LeetCode/2120/) | Execution of All Suffix Instructions Staying in a Grid | Medium | String, Simulation |
 | [2300](./LeetCode/2300/) | Successful Pairs of Spells and Potions | Medium | Array, Two Pointers, Binary Search, Sorting |
 | [2311](./LeetCode/2311/) | Longest Binary Subsequence Less Than or Equal to K | Medium | String, Dynamic Programming, Greedy, Memoization |
