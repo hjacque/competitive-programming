@@ -126,6 +126,7 @@ https://leetcode.com
 | [3365](./LeetCode/3365/) | Rearrange K Substrings to Form Target String | Medium | Hash Table, String, Sorting |
 | [3423](./LeetCode/3423/) | Maximum Difference Between Adjacent Elements in a Circular Array | Easy | Array |
 | [3442](./LeetCode/3442/) | Maximum Difference Between Even and Odd Frequency I | Easy | Hash Table, String, Counting |
+| [3527](./LeetCode/3527/) | Find the Most Common Response | Medium | Array, Hash Table, String, Counting |
 | [3541](./LeetCode/3541/) | Find Most Frequent Vowel and Consonant | Easy | Hash Table, String, Counting |
 | [3556](./LeetCode/3556/) | Sum of Largest Prime Substrings | Medium | Hash Table, Math, String, Sorting, Number Theory |
 | [3557](./LeetCode/3557/) | Find Maximum Number of Non Intersecting Substrings | Medium | Hash Table, String, Dynamic Programming, Greedy |
