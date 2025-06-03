@@ -1,6 +1,11 @@
 # 2998. Minimum Number of Operations to Make X and Y Equal
-`Medium`
+
+https://leetcode.com/problems/minimum-number-of-operations-to-make-x-and-y-equal
+
+Difficulty: `Medium`
 Topics: `Dynamic Programming`, `Breath-First Search`, `Memoization`
+
+---
 
 You are given two positive integers x and y.
 
@@ -50,7 +55,9 @@ It can be shown that 5 is the minimum number of operations required to make 25 e
 
 Constraints:
 
-`1 <= x, y <= 104`
+- `1 <= x, y <= 104`
+
+---
 
 Hint 1
 The only way to make `x` larger is to increase it by `1` so if `y >= x` the answer is `y - x`.
