@@ -13,7 +13,7 @@ We say that an integer x is expressible from `nums` if there exist some integers
 
 Return the minimum positive non-zero integer that is not expressible from `nums`.
 
- 
+--- 
 
 Example 1:
 
@@ -27,16 +27,17 @@ Input: nums = [5,3,2]
 Output: 1
 Explanation: We can show that 1 is the smallest number that is not expressible.
  
+---
 
 Constraints:
 
-- `1 <= nums.length <= 105`
-- `1 <= nums[i] <= 109`
+- `1 <= nums.length <= 10^5`
+- `1 <= nums[i] <= 10^9`
 
 ---
 
 Hint 1
-Think about forming numbers in the powers of 2 using their bit representation.
+- Think about forming numbers in the powers of 2 using their bit representation.
 
 Hint 2
-The minimum power of 2 not present in the array will be the first number that could not be expressed using the given operation.
+- The minimum power of 2 not present in the array will be the first number that could not be expressed using the given operation.
