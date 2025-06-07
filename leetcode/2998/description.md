@@ -52,6 +52,7 @@ Explanation: We can make 25 equal to 30 by applying the following operations:
 5. Increment x by 1
 It can be shown that 5 is the minimum number of operations required to make 25 equal to 30.
  
+---
 
 Constraints:
 
