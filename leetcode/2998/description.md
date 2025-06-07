@@ -17,7 +17,7 @@ Decrement `x` by `1`.
 Increment `x` by `1`.
 Return the minimum number of operations required to make `x` and `y` equal.
 
- 
+---
 
 Example 1:
 
@@ -55,21 +55,21 @@ It can be shown that 5 is the minimum number of operations required to make 25 e
 
 Constraints:
 
-- `1 <= x, y <= 104`
+- `1 <= x, y <= 10^4`
 
 ---
 
 Hint 1
-The only way to make `x` larger is to increase it by `1` so if `y >= x` the answer is `y - x`.
+- The only way to make `x` larger is to increase it by `1` so if `y >= x` the answer is `y - x`.
 
 Hint 2
-For `y < x`, `x - y` is always a candidate answer since we can repeatedly decrease `x` by one to reach `y`.
+- For `y < x`, `x - y` is always a candidate answer since we can repeatedly decrease `x` by one to reach `y`.
 
 Hint 3
-We can also increase x and then use the division operations. For example, if `x = 10` and `y = 1`, we can increment `x` by `1` then divide it by `11`.
+- We can also increase x and then use the division operations. For example, if `x = 10` and `y = 1`, we can increment `x` by `1` then divide it by `11`.
 
 Hint 4
-Find an upper bound `U` on the maximum value of `x` we will reach an optimal solution. Since all values of `x` will be in the range `[1, U]`, we can use BFS to find the answer.
+- Find an upper bound `U` on the maximum value of `x` we will reach an optimal solution. Since all values of `x` will be in the range `[1, U]`, we can use BFS to find the answer.
 
 Hint 5
-One possible upper bound on `x` is `U = x + (x - y)`. To reach any number strictly greater than `U` from `x`, we will need more than `x - y` operations which is not optimal since we can always reach `y` in `x - y` operations.
+- One possible upper bound on `x` is `U = x + (x - y)`. To reach any number strictly greater than `U` from `x`, we will need more than `x - y` operations which is not optimal since we can always reach `y` in `x - y` operations.
