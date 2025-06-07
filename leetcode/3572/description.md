@@ -38,6 +38,7 @@ Explanation:
 
 - There are only two distinct values in `x`. Hence, the output is -1.
  
+---
 
 Constraints:
 
