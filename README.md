@@ -10,6 +10,7 @@ This repository documents my solutions to various competitive programming proble
 |---------|------------|--------|
 | [107](./leetcode/107/) | Medium | Tree, Breadth-First Search, Binary Tree |
 | [122](./leetcode/122/) | Medium | Array, Dynamic Programming, Greedy |
+| [123](./leetcode/123/) | Hard | Array, Dynamic Programming |
 | [215](./leetcode/215/) | Medium | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect | 
 | [791](./leetcode/791/) | Medium | Hash Table, String, Sorting |
 | [848](./leetcode/848/) | Medium | Array, String, Prefix Sum |
