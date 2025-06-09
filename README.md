@@ -25,4 +25,5 @@ This repository documents my solutions to various competitive programming proble
 | [2904](./leetcode/2904/) | Medium | String, Sliding Window |
 | [2998](./leetcode/2998/) | Medium | Dynamic Programming, Breadth-First Search, Memoization |
 | [3365](./leetcode/3365/) | Medium | Hash Table, String, Sorting |
+| [3556](./leetcode/3556/) | Medium | Hash Table, Math, String, Sorting, Number Theory |
 | [3557](./leetcode/3557/) | Medium | Hash Table, String, Dynamic Programming, Greedy |
