@@ -28,3 +28,4 @@ This repository documents my solutions to various competitive programming proble
 | [3556](./leetcode/3556/) | Medium | Hash Table, Math, String, Sorting, Number Theory |
 | [3557](./leetcode/3557/) | Medium | Hash Table, String, Dynamic Programming, Greedy |
 | [3572](./leetcode/3572/) | Medium | |
+| [3573](./leetcode/3573/) | Medium | Array, Dynamic Programming |
