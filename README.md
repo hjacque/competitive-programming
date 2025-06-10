@@ -12,7 +12,8 @@ This repository documents my solutions to various competitive programming proble
 | [122](./leetcode/122/) | Medium | Array, Dynamic Programming, Greedy |
 | [123](./leetcode/123/) | Hard | Array, Dynamic Programming |
 | [188](./leetcode/188/) | Hard | Array, Dynamic Programming |
-| [215](./leetcode/215/) | Medium | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect | 
+| [215](./leetcode/215/) | Medium | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect |
+| [386](./leetcode/386/) | Medium | Depth-First Search, Trie |
 | [791](./leetcode/791/) | Medium | Hash Table, String, Sorting |
 | [848](./leetcode/848/) | Medium | Array, String, Prefix Sum |
 | [1387](./leetcode/1387/) | Medium | Dynamic Programming, Memoization, Sorting |
