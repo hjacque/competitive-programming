@@ -21,6 +21,7 @@ This repository documents my solutions to various competitive programming proble
 | [1980](./leetcode//1980/) | Medium | Array, Hash Table, String, Backtracking |
 | [2120](./leetcode/2120/) | Medium | String, Simulation |
 | [2300](./leetcode/2300/) | Medium | Array, Two Pointers, Binary Search, Sorting |
+| [2566](./leetcode/2566/) | Easy | Math, Greedy |
 | [2568](./leetcode/2568/) | Medium | Array, Bit Manipulation, Brainteaser |
 | [2616](./leetcode/2616/) | Medium | Array, Binary Search, Greedy |
 | [2807](./leetcode/2807/) | Medium | Linked List, Math, Number Theory |
