@@ -7,6 +7,7 @@ This repository documents my solutions to various competitive programming proble
 ## Table of Contents
 
 - [AtCoder](#atcoder)
+- [CodeChef](#codechef)
 - [LeetCode](#leetcode)
 
 ---
@@ -21,6 +22,17 @@ https://atcoder.jp
 | [abc410_b](./AtCoder/abc410_b/) | 200 | |
 | [abc410_c](./AtCoder/abc410_c/) | 300 | |
 
+---
+
+## CodeChef
+
+https://www.codechef.com
+
+| | Difficulty | Topics |
+|---------|------------|--------|
+| [TRICOIN](./CodeChef/TRICOIN/) | 1075 | Binary Search |
+
+---
 
 ## LeetCode
 
