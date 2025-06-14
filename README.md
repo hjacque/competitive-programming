@@ -4,7 +4,16 @@ This repository documents my solutions to various competitive programming proble
 
 ---
 
+## Table of Contents
+
+- [LeetCode](#leetcode)
+
+---
+
+
 ## LeetCode
+
+https://leetcode.com
 
 | | Difficulty | Topics |
 |---------|------------|--------|
