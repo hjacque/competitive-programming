@@ -18,6 +18,7 @@ https://atcoder.jp
 | | Topics |
 |---------|--------|
 | [abc410_a](./AtCoder/abc410_a/) | |
+| [abc410_b](./AtCoder/abc410_b/) | |
 
 
 ## LeetCode
