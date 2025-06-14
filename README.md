@@ -15,10 +15,11 @@ This repository documents my solutions to various competitive programming proble
 
 https://atcoder.jp
 
-| | Topics |
-|---------|--------|
-| [abc410_a](./AtCoder/abc410_a/) | |
-| [abc410_b](./AtCoder/abc410_b/) | |
+| | Score | Topics |
+|---------|------------|--------|
+| [abc410_a](./AtCoder/abc410_a/) | 100 | |
+| [abc410_b](./AtCoder/abc410_b/) | 200 | |
+| [abc410_c](./AtCoder/abc410_c/) | 300 | |
 
 
 ## LeetCode
