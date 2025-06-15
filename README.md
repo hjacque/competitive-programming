@@ -31,6 +31,7 @@ https://www.codechef.com
 | | Difficulty | Topics |
 |---------|------------|--------|
 | [TRICOIN](./CodeChef/TRICOIN/) | 1075 | Binary Search |
+| [MAXDIFF](./CodeChef/MAXDIFF/) | 1308 | Greedy |
 
 ---
 
