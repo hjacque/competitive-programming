@@ -50,6 +50,7 @@ https://leetcode.com
 | [791](./LeetCode/791/) | Medium | Hash Table, String, Sorting |
 | [848](./LeetCode/848/) | Medium | Array, String, Prefix Sum |
 | [1387](./LeetCode/1387/) | Medium | Dynamic Programming, Memoization, Sorting |
+| [1432](./LeetCode/1432/) | Medium | Math, Greedy |a
 | [1980](./LeetCode//1980/) | Medium | Array, Hash Table, String, Backtracking |
 | [2120](./LeetCode/2120/) | Medium | String, Simulation |
 | [2300](./LeetCode/2300/) | Medium | Array, Two Pointers, Binary Search, Sorting |
