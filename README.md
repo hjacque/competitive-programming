@@ -53,6 +53,7 @@ https://leetcode.com
 | [1387](./LeetCode/1387/) | Medium | Dynamic Programming, Memoization, Sorting |
 | [1432](./LeetCode/1432/) | Medium | Math, Greedy |
 | [1980](./LeetCode//1980/) | Medium | Array, Hash Table, String, Backtracking |
+| [2016](./LeetCode/2016/) | Easy | Array |
 | [2120](./LeetCode/2120/) | Medium | String, Simulation |
 | [2300](./LeetCode/2300/) | Medium | Array, Two Pointers, Binary Search, Sorting |
 | [2566](./LeetCode/2566/) | Easy | Math, Greedy |
