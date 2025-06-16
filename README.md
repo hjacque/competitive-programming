@@ -32,6 +32,7 @@ https://www.codechef.com
 |---------|------------|--------|
 | [TRICOIN](./CodeChef/TRICOIN/) | 1075 | Binary Search |
 | [MAXDIFF](./CodeChef/MAXDIFF/) | 1308 | Greedy |
+| [PERMEXIS](./CodeChef/PERMEXIS/) | 1207 | Greedy |
 
 ---
 
