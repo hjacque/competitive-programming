@@ -33,6 +33,10 @@ https://www.codechef.com
 | [TRICOIN](./CodeChef/TRICOIN/) | 1075 | Binary Search |
 | [MAXDIFF](./CodeChef/MAXDIFF/) | 1308 | Greedy |
 | [PERMEXIS](./CodeChef/PERMEXIS/) | 1207 | Greedy |
+| [DIVIDE3](./CodeChef/DIVIDE3/) | Cakewalk | |
+| [NEARSQ](./CodeChef/NEARSQ/) | Cakewalk | |
+| [ADDGCD](./CodeChef/ADDGCD/) | Cakewalk | |
+| [PERMGE2](./CodeChef/PERMGE2/) | Simple | |
 
 ---
 
