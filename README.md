@@ -63,6 +63,7 @@ https://leetcode.com
 | [2807](./LeetCode/2807/) | Medium | Linked List, Math, Number Theory |
 | [2825](./LeetCode/2825/) | Medium | Two Pointers, String |
 | [2904](./LeetCode/2904/) | Medium | String, Sliding Window |
+| [2966](./LeetCode/2966/) | Medium | Array, Greedy, Sorting |
 | [2998](./LeetCode/2998/) | Medium | Dynamic Programming, Breadth-First Search, Memoization |
 | [3365](./LeetCode/3365/) | Medium | Hash Table, String, Sorting |
 | [3423](./LeetCode/3423/) | Easy | Array |
