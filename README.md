@@ -37,6 +37,9 @@ https://www.codechef.com
 | [NEARSQ](./CodeChef/NEARSQ/) | Cakewalk | |
 | [ADDGCD](./CodeChef/ADDGCD/) | Cakewalk | |
 | [PERMGE2](./CodeChef/PERMGE2/) | Simple | |
+| [SHOM](./CodeChef/SHOM/) | Cakewalk | |
+| [NODDSM](./CodeChef/NODDSM/) | Cakewalk | |
+| [SECLN](./CodeChef/SECLN/) | Cakewalk | |
 
 ---
 
