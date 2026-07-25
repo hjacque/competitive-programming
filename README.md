@@ -1,7 +1,5 @@
 # Competitive Programming
 
-This repository documents my solutions to various competitive programming problems.
-
 ---
 
 ## Table of Contents
